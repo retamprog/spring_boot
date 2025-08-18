@@ -1,6 +1,6 @@
 package com.retam.omega;
 
-public class PaypalPaymentService implements PaymentService{
+public class PayPalPaymentService implements PaymentService{
     @Override
     public void processPayment(double amt){
         System.out.println("PAYPAL");
