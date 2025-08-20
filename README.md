@@ -1,0 +1,3 @@
+Simple SpringBoot Rest API application 
+Demonstrating the modularity of springboot and its auto config features along with auto REST api creation features
+Using Spring Data JPA Hibernate and PostgreSQL server...
